@@ -10,7 +10,7 @@
 - ⚙️ Tools: Git, GitHub, Zustand, Postman, Redux Toolkit.
 
 ## 📂 Featured Projects
- **Streamify** – [Live Demo](https://streamify-video-chat-nnvu.onrender.com/login) | [GitHub Repo](https://github.com/dharmesh-bhati/streamify)
+ **Streamify** – [Live Demo](https://streamify-video-chat-nnvu.onrender.com/login) | [GitHub Repo] - (https://github.com/Dharmesh-Bhati/streamify-video-chat.git)
  
 
 ## 📫 Connect with Me
