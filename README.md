@@ -1,16 +1,26 @@
-# 👋 Hi, I'm Dharmesh Bhati
+👋 Hi, I'm Dharmesh Bhati
 
-🚀 Full Stack Developer (MERN)  
-🎯 I love building real-world web applications using React, Node.js, MongoDB  
-💡 Currently open to internship opportunities in frontend/backend
+🚀 .NET Core Backend Developer | React | C# | SQL
+🎯 I enjoy building scalable web applications and REST APIs using .NET Core and React.
+💡 Currently open to internship opportunities in backend or full-stack development.
 
-## 🔧 Tech Stack
-- 💻 Frontend: React.js, JavaScript, HTML, CSS, Tailwind CSS, DaisyUI
-- 🔙 Backend: Node.js, Express.js, MongoDB
-- ⚙️ Tools: Git, GitHub, Zustand, Postman, Redux Toolkit.
+🔧 Tech Stack
 
-## 📂 Featured Projects
- **Streamify** – [Live Demo](https://streamify-video-chat-nnvu.onrender.com/login) | [GitHub Repo] - (https://github.com/Dharmesh-Bhati/streamify-video-chat.git)
+💻 Frontend: React.js, JavaScript, HTML, CSS, Tailwind CSS
+
+🔙 Backend: ASP.NET Core MVC, ASP.NET Core Web API, C#, Entity Framework
+
+🗄️ Database: SQL Server
+
+⚙️ Tools: Git, GitHub, Postman, Visual Studio, VS Code
+
+📂 Featured Project
+🧾 Job Portal
+
+A full-stack job portal where users can register, post jobs, and apply for positions.
+Tech Used: .NET Core Web API, React.js, SQL Server, Entity Framework
+ 
+ **Job Portal** – [Live Demo](https://job-portal-react-o7b2.onrender.com/) | [GitHub Repo] - (https://github.com/Dharmesh-Bhati/streamify-video-chat.git)
  
 
 ## 📫 Connect with Me
