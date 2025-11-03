@@ -20,7 +20,7 @@
 A full-stack job portal where users can register, post jobs, and apply for positions.
 Tech Used: .NET Core Web API, React.js, SQL Server, Entity Framework
  
- **Job Portal** – [Live Demo](https://job-portal-react-o7b2.onrender.com/) | [GitHub Repo] - (https://github.com/Dharmesh-Bhati/streamify-video-chat.git)
+ **Job Portal** – [Live Demo](https://job-portal-react-o7b2.onrender.com/) | [GitHub Repo] - (https://github.com/Dharmesh-Bhati/Job-Portal-Fullstack)
  
 
 ## 📫 Connect with Me
